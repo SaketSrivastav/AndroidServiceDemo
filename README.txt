@@ -1,0 +1,1 @@
+This demo demostrates the usage of android services in andorid phones. In this demo we try to invoke the android service and make it to play a mp3 file in the background.
